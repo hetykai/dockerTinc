@@ -1,4 +1,4 @@
-FROM hety/alpine
+FROM alpine
 
 ARG tincversion=1.1pre17
 
